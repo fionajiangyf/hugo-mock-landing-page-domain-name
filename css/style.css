@@ -9818,10 +9818,10 @@ a .feather-github:hover {
 }
 
 .navbar {
-  --bd-violet-rgb: 112.520718,44.062154,249.437846;
+  --bd-violet-rgb: 93.520718, 173.062154,249.437846;
   padding: .75rem 0;
   background-color: transparent;
-  background-image: linear-gradient(to bottom, rgba(var(--bd-blue-rgb), 1), rgba(var(--bd-blue-rgb), 0.95));
+  background-image: linear-gradient(to bottom, rgba(var(--bd-violet-rgb), 1), rgba(var(--bd-violet-rgb), 0.95)) !important;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15), inset 0 -1px 0 rgba(0, 0, 0, 0.15);
 }
 
