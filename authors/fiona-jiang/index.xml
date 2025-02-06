@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fiona Jiang on Horizon</title>
-    <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/authors/fiona-jiang/</link>
+    <link>https://fionajiangyf.github.io/hugo-mock-landing-page/authors/fiona-jiang/</link>
     <description>Recent content in Fiona Jiang on Horizon</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE&#34;&gt;MIT&lt;/a&gt; Licensed.</copyright>
+    <copyright>Fiona Jiang</copyright>
     <lastBuildDate>Thu, 06 Feb 2025 00:03:13 -0500</lastBuildDate>
-    <atom:link href="https://filipecarneiro.github.io/hugo-bootstrap-theme/authors/fiona-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fionajiangyf.github.io/hugo-mock-landing-page/authors/fiona-jiang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Explore the World Effortlessly with Horizon 🌍🚀</title>
-      <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/post/bootstrap-5-2-0-beta/</link>
+      <link>https://fionajiangyf.github.io/hugo-mock-landing-page/post/bootstrap-5-2-0-beta/</link>
       <pubDate>Wed, 05 Feb 2025 13:00:44 +0100</pubDate>
-      <guid>https://filipecarneiro.github.io/hugo-bootstrap-theme/post/bootstrap-5-2-0-beta/</guid>
+      <guid>https://fionajiangyf.github.io/hugo-mock-landing-page/post/bootstrap-5-2-0-beta/</guid>
       <description>&lt;h2 id=&#34;planning-a-trip-has-never-been-easier&#34;&gt;Planning a trip has never been easier!&lt;/h2&gt;&#xA;&lt;p&gt;Horizon takes the hassle out of travel by offering personalized, AI-driven recommendations tailored to your preferences. Whether you&amp;rsquo;re planning a solo adventure, a family getaway, or a business trip, Horizon has you covered with:&lt;/p&gt;&#xA;&lt;p&gt;🛫 &lt;strong&gt;Smart Itinerary Planning&lt;/strong&gt; – AI-generated travel plans based on your interests and budget. &lt;br&gt;&#xA;💰 &lt;strong&gt;Real-Time Pricing Updates&lt;/strong&gt; – Get the best flight and hotel deals as they change. &lt;br&gt;&#xA;📍 &lt;strong&gt;Tailored Activity Suggestions&lt;/strong&gt; – Find hidden gems and must-see attractions effortlessly. &lt;br&gt;&#xA;🌦 &lt;strong&gt;Weather Forecasts &amp;amp; Budget Tracking&lt;/strong&gt; – Stay prepared and manage your expenses with ease. &lt;br&gt;&#xA;👥 &lt;strong&gt;Seamless Group Planning&lt;/strong&gt; – Collaborate with friends and sync plans in real-time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Docs</title>
-      <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/page/</link>
+      <link>https://fionajiangyf.github.io/hugo-mock-landing-page/page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://filipecarneiro.github.io/hugo-bootstrap-theme/page/</guid>
+      <guid>https://fionajiangyf.github.io/hugo-mock-landing-page/page/</guid>
       <description></description>
     </item>
     <item>
       <title>Posts</title>
-      <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/post/</link>
+      <link>https://fionajiangyf.github.io/hugo-mock-landing-page/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://filipecarneiro.github.io/hugo-bootstrap-theme/post/</guid>
+      <guid>https://fionajiangyf.github.io/hugo-mock-landing-page/post/</guid>
       <description></description>
     </item>
   </channel>

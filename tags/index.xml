@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Horizon</title>
-    <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/tags/</link>
+    <link>https://fionajiangyf.github.io/hugo-mock-landing-page/tags/</link>
     <description>Recent content in Tags on Horizon</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE&#34;&gt;MIT&lt;/a&gt; Licensed.</copyright>
+    <copyright>Fiona Jiang</copyright>
     <lastBuildDate>Thu, 06 Feb 2025 00:03:13 -0500</lastBuildDate>
-    <atom:link href="https://filipecarneiro.github.io/hugo-bootstrap-theme/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fionajiangyf.github.io/hugo-mock-landing-page/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bootstrap</title>
-      <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/tags/bootstrap/</link>
+      <link>https://fionajiangyf.github.io/hugo-mock-landing-page/tags/bootstrap/</link>
       <pubDate>Wed, 05 Feb 2025 13:00:44 +0100</pubDate>
-      <guid>https://filipecarneiro.github.io/hugo-bootstrap-theme/tags/bootstrap/</guid>
+      <guid>https://fionajiangyf.github.io/hugo-mock-landing-page/tags/bootstrap/</guid>
       <description></description>
     </item>
     <item>
       <title>Index</title>
-      <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/tags/index/</link>
+      <link>https://fionajiangyf.github.io/hugo-mock-landing-page/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://filipecarneiro.github.io/hugo-bootstrap-theme/tags/index/</guid>
+      <guid>https://fionajiangyf.github.io/hugo-mock-landing-page/tags/index/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/tags/privacy/</link>
+      <link>https://fionajiangyf.github.io/hugo-mock-landing-page/tags/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://filipecarneiro.github.io/hugo-bootstrap-theme/tags/privacy/</guid>
+      <guid>https://fionajiangyf.github.io/hugo-mock-landing-page/tags/privacy/</guid>
       <description></description>
     </item>
   </channel>
