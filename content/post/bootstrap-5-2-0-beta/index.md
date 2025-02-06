@@ -1,19 +1,23 @@
 ---
-title: "Bootstrap 5.2.0 beta"
-description: "It’s the biggest release since v5 itself—Bootstrap v5.2.0-beta1 is here!"
-date: 2022-05-13T13:00:44+01:00
+title: "Explore the World Effortlessly with Horizon 🌍🚀"
+description: "Your AI-Powered Travel Assistant"
+date: 2025-02-05T13:00:44+01:00
 draft: false
 images: ["bootstrap-5-2-0-beta.png"]
 categories: ["The Bootstrap Blog"]
 tags: ["Bootstrap"]
 keywords: ["bootstrap 5 2 0 beta","bootstrap 5","bootstrap"]
-authors: ["Mark Otto"]
+authors: ["Fiona Jiang"]
 noindex: true
 ---
 
-![Bootstrap 5 2 0 Beta](bootstrap-5-2-0-beta.png)
-{ .img-fluid }
+## Planning a trip has never been easier!
+Horizon takes the hassle out of travel by offering personalized, AI-driven recommendations tailored to your preferences. Whether you're planning a solo adventure, a family getaway, or a business trip, Horizon has you covered with: 
 
-> It’s the biggest release since v5 itself—**Bootstrap v5.2.0-beta1 is here!** This release features redesigned docs, CSS variables for all our components, responsive offcanvas, new helpers and utilities, refined buttons and inputs, and lots of improvements under the hood.
+🛫 **Smart Itinerary Planning** – AI-generated travel plans based on your interests and budget. \
+💰 **Real-Time Pricing Updates** – Get the best flight and hotel deals as they change. \
+📍 **Tailored Activity Suggestions** – Find hidden gems and must-see attractions effortlessly. \
+🌦 **Weather Forecasts & Budget Tracking** – Stay prepared and manage your expenses with ease. \
+👥 **Seamless Group Planning** – Collaborate with friends and sync plans in real-time.
 
-Given the size of the update and time since our last release, we’re doing something different and shipping it as a beta first. [Keep reading for details](https://blog.getbootstrap.com/2022/05/13/bootstrap-5-2-0-beta/).
+✨ *From dream to destination, Horizon makes every trip stress-free.* Let AI do the planning so you can focus on exploring. Start your journey with Horizon today! 🌟
