@@ -1,7 +1,8 @@
-baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
+
 title = "Horizon"
 author = "Fiona Jiang"
-copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
+baseURL = 'https://fionajiangyf.github.io/hugo-mock-landing-page/'
+copyright = "Fiona Jiang 2025"
 
 timeZone = 'Europe/London'
 
@@ -48,3 +49,4 @@ enableEmoji = true
   [[module.mounts]]
     source = "static"
     target = "static"
+
