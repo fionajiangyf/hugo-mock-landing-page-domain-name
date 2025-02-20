@@ -8,4 +8,4 @@ menu:
 
 # Contact
 
-Please contact fionaj@seas.upenn.edu.
+[Open an issue](https://github.com/fionajiangyf/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
