@@ -1,7 +1,7 @@
 
 title = "Horizon"
 author = "Fiona Jiang"
-baseURL = 'https://fionajiangyf.github.io/hugo-mock-landing-page-autodeployed/'
+baseURL = 'https://fionajiangyf.github.io/hugo-mock-landing-page-domain-name/'
 copyright = "Fiona Jiang 2025"
 
 timeZone = 'Europe/London'
